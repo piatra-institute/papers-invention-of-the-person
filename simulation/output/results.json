@@ -1,0 +1,102 @@
+{
+  "stratigraphy": {
+    "n_formations": 9,
+    "order_by_date": [
+      "relational personhood",
+      "epic singularization",
+      "juridical personhood",
+      "interior conscience",
+      "metaphysical substance",
+      "self-conscious continuity",
+      "transcendental autonomy",
+      "social recognition",
+      "historical production"
+    ],
+    "full_span_years": 101975,
+    "literate_span_years": 4075,
+    "largest_gap_years": 1650,
+    "largest_gap_between": [
+      -2100,
+      -450
+    ],
+    "formations": [
+      {
+        "layer": "relational personhood",
+        "year": -100000,
+        "source": "kinship, ritual, burial"
+      },
+      {
+        "layer": "epic singularization",
+        "year": -2100,
+        "source": "Gilgamesh"
+      },
+      {
+        "layer": "juridical personhood",
+        "year": -450,
+        "source": "Roman law (Twelve Tables); codified by Gaius, 2c CE"
+      },
+      {
+        "layer": "interior conscience",
+        "year": 55,
+        "source": "Paul, Epistle to the Romans"
+      },
+      {
+        "layer": "metaphysical substance",
+        "year": 520,
+        "source": "Boethius"
+      },
+      {
+        "layer": "self-conscious continuity",
+        "year": 1689,
+        "source": "Locke"
+      },
+      {
+        "layer": "transcendental autonomy",
+        "year": 1785,
+        "source": "Kant"
+      },
+      {
+        "layer": "social recognition",
+        "year": 1807,
+        "source": "Hegel"
+      },
+      {
+        "layer": "historical production",
+        "year": 1975,
+        "source": "Foucault, Discipline and Punish"
+      }
+    ]
+  },
+  "thinning": {
+    "formal_index": 1.0,
+    "full_practical_index": 1.0,
+    "profiled_practical_index": 0.3898,
+    "infrastructural_practical_index": 0.9281,
+    "profiled_formal_practical_gap": 0.6102,
+    "infrastructural_over_profiled": 2.381,
+    "profiled_supports": {
+      "relational": 0.4,
+      "epic": 0.5,
+      "juridical": 0.3,
+      "interior": 0.5,
+      "rational": 0.3
+    },
+    "infrastructural_supports": {
+      "relational": 0.9,
+      "epic": 0.85,
+      "juridical": 1.0,
+      "interior": 0.9,
+      "rational": 1.0
+    }
+  },
+  "recognition": {
+    "n_agents": 120,
+    "k_infrastructural": 6,
+    "egalitarian_mean_mutual": 14.0,
+    "concentrated_mean_mutual_profiled": 0.36,
+    "concentrated_mean_mutual_infrastructural": 9.5,
+    "infra_over_profiled_mutual": 26.41,
+    "recognition_gini_egalitarian": 0.1324,
+    "recognition_gini_concentrated": 0.6148
+  }
+}

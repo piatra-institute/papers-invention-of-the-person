@@ -1,0 +1,9 @@
+[project]
+name = "invention-of-the-person-sim"
+version = "0.1.0"
+description = "Stratigraphy, composite-thinning, and recognition-network analyses for the invention-of-the-person paper"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+]
