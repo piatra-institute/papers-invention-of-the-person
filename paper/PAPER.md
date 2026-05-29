@@ -13,7 +13,7 @@ The modern Person, the autonomous, rational, rights-bearing individual, is treat
 
 ## 1. Introduction
 
-There is a figure at the center of modern political, legal, and moral thought. We call it the Person. It governs itself. It can deliberate, reflect, and choose. It bears rights that others must respect. It persists over time as the same self that acted yesterday and will act tomorrow. It has a conscience, a will, motives that matter independently of outward behavior. And it is, in principle, universal: every human being is supposed to be one.
+A single figure sits at the center of modern political, legal, and moral thought. We call it the Person. It governs itself. It can deliberate, reflect, and choose. It bears rights that others must respect. It persists over time as the same self that acted yesterday and will act tomorrow. It has a conscience, a will, motives that matter independently of outward behavior. And it is, in principle, universal: every human being is supposed to be one.
 
 This figure is so familiar, so deeply embedded in our legal codes and political arguments and everyday speech, that it looks natural, as though it were simply what humans are. The genealogy presented here pulls the figure apart. What we call the Person is the result of a long series of inventions, produced in different centuries and different institutional contexts, each answering a different question, and later fused into a single composite that gets treated as if it had always been one thing.
 
@@ -34,7 +34,7 @@ Chris Fowler, synthesizing decades of archaeological and anthropological work, p
 
 Melanesian ethnography has produced the most fully developed theoretical framework for understanding this kind of selfhood. Marilyn Strathern's concept of the "dividual" describes persons who are composed of the relations they participate in. A Melanesian person, in this account, is not a bounded container holding an inner self. The person is instead a composite of substances, names, obligations, and gifts that flow through social networks. A piece of you belongs to your mother's clan; another piece belongs to your exchange partner; another was deposited in you through ritual. You are, literally, made of your relations.
 
-This has practical consequences. A newborn in many such societies is not yet a full person. Personhood is something that must be achieved, through naming ceremonies, through the accumulation of social debts and credits, through being recognized by elders and integrated into the kinship system. Someone who dies without proper burial rites may lose their personhood, becoming a dangerous ghost rather than a respected ancestor. Personhood is a status that the community confers and that the community can, under certain conditions, withdraw.
+This has practical consequences. A newborn in many such societies is not yet a full person. Personhood is something that must be achieved, through naming ceremonies, through the accumulation of social debts and credits, through being recognized by elders and integrated into the kinship system. Someone who dies without proper burial rites may lose their personhood, becoming a dangerous ghost rather than a respected ancestor. Personhood is a status that the community confers and that the community can, under certain conditions, withdraw. Victor Turner's analysis of ritual makes the mechanism explicit: rites of passage carry initiates across a threshold of status, and it is the rite, not biological maturation alone, that confers the new standing (Turner, 1969).
 
 The anthropological literature treats this as a different answer to the same question, equal in coherence to the modern Western one. The modern West locates personhood inside the individual, as an inherent property of the biological organism. Relational societies locate it in the space between people. Both answers work. They produce different kinds of social organization, different kinds of moral reasoning, different kinds of vulnerability. The relational person is exposed to social exclusion. The bounded individual is exposed to isolation and anomie. Each form trades one kind of fragility for another.
 
@@ -42,7 +42,7 @@ The anthropological literature treats this as a different answer to the same que
 
 Direct evidence from early hominins is scarce, but a few traces survive. Deliberate burials and grave goods, attested among both Neanderthals and early *Homo sapiens*, hint at symbolic thought and some notion of an afterlife or persistent identity. The discovery that *Homo naledi* practiced intentional interment has pushed these questions further back in time and reinvigorated debates about the cognitive and moral status of extinct human relatives.
 
-Whether any of these hominins held a concept of "self" resembling ours is impossible to determine from the archaeological record. What seems more plausible is that they possessed a form of rudimentary self-awareness embedded in small social groups, a sense of being-with-others that had not yet crystallized into the sharp boundary between self and world that later formations would construct. The self, at this depth, may have been more like a social position than an inner substance.
+The archaeological record cannot settle whether any of these hominins held a concept of "self" resembling ours. The most defensible reading is that they possessed a rudimentary self-awareness embedded in small social groups, a sense of being-with-others that had not yet crystallized into the sharp boundary between self and world that later formations would construct. The self, at this depth, may have been more like a social position than an inner substance.
 
 ### 2.3 The Contribution of This Layer
 
@@ -86,7 +86,7 @@ The Romans produced something that neither kinship societies nor epic poets had 
 
 The jurist Gaius, writing in the 2nd century CE, organized the entire law around a threefold division: "The whole of the law which we use relates either to persons or to things or to actions." His *Institutes*, which became a foundational text of European legal education, classify all humans under the "law of persons," organized primarily by the distinction between free and slave: "the primary distinction in the law of persons is that all men are either free or slaves."
 
-This sounds blunt, and it is. But the conceptual innovation is enormous. Gaius is saying that personhood is a *legal category*, a matter of status within an institutional system. Whether you count as a person depends on whether the law recognizes you as one. A slave is biologically human. A slave can think, feel, suffer, and reason. But a slave is, for most legal purposes, a *res*, a thing, an item of property. A free citizen of Rome is a person with full *status capitis*. A foreigner has partial standing. A woman has standing that is constrained in specific ways. The *paterfamilias*, the male head of household, holds power over his children and slaves that is itself a form of legal personhood, a node of authority within the legal order.
+The conceptual innovation is enormous. Gaius is saying that personhood is a *legal category*, a matter of status within an institutional system. Whether you count as a person depends on whether the law recognizes you as one. A slave is biologically human. A slave can think, feel, suffer, and reason. But a slave is, for most legal purposes, a *res*, a thing, an item of property. A free citizen of Rome is a person with full *status capitis*. A foreigner has partial standing. A woman has standing that is constrained in specific ways. The *paterfamilias*, the male head of household, holds power over his children and slaves that is itself a form of legal personhood, a node of authority within the legal order.
 
 What Rome contributes, then, is the idea that personhood is an institutional fact. It answers a specific question: who counts, within this legal order, as a bearer of rights and obligations? The answer can include or exclude whoever the legal system decides. The category of "person" can be broader than the category of "human" (Roman law recognized certain collective entities) and narrower than "human" (slaves were human but not fully persons). This flexibility is both the power and the danger of juridical personhood. It makes formal legal equality possible. It also makes formal legal exclusion possible. The same technology that eventually produced the Declaration of the Rights of Man also produced the legal infrastructure of slavery.
 
@@ -101,7 +101,7 @@ This is the layer that contemporary debates about corporate personhood, animal r
 
 ### 5.1 Paul and the Inner Witness
 
-The Christian transformation of personhood may be the most consequential single development in this genealogy. It added an entirely new dimension: depth.
+The Christian transformation of personhood is the most consequential single development in this genealogy. It added an entirely new dimension: depth.
 
 Before Paul, morality in the Greco-Roman world was largely a matter of action, character, and social reputation. Aristotle's ethics is about habituation, virtue, and the good life lived in community. Guilt, in the Greek tragic tradition, attaches to what you did, even inadvertently. Oedipus is guilty because he killed his father and married his mother, regardless of his intentions or knowledge.
 
@@ -138,13 +138,13 @@ Before Locke and Kant can complete the construction, Descartes must be mentioned
 
 John Locke, writing at the end of the 17th century, reframes the person in psychological and legal terms simultaneously. A person, Locke says, is "a thinking, intelligent Being, that has reason and reflection, and can consider itself as itself, the same thinking thing in different times and places." This looks like a psychological definition, and it is. But Locke immediately adds that "person" is a *forensic term*: "appropriating actions and their merit; and so belongs only to intelligent agents, capable of a law, and happiness, and misery."
 
-The word "forensic" is crucial. It means that the concept of personhood exists for the purpose of attribution. We need "person" as a category because we need to be able to say: this individual did this thing, and is responsible for it, and can be rewarded or punished accordingly. Personal identity across time, for Locke, is continuity of consciousness, specifically of memory. You are the same person who committed the crime last year because you can remember committing it (or at least remember being the kind of being who could have committed it). If you genuinely cannot remember, if consciousness is completely discontinuous, then in Locke's view there is a real question about whether you are the same person.
+Forensic means that the concept of personhood exists for the purpose of attribution. We need "person" as a category because we need to be able to say: this individual did this thing, and is responsible for it, and can be rewarded or punished accordingly. Personal identity across time, for Locke, is continuity of consciousness, specifically of memory. You are the same person who committed the crime last year because you can remember committing it (or at least remember being the kind of being who could have committed it). If you genuinely cannot remember, if consciousness is completely discontinuous, then in Locke's view there is a real question about whether you are the same person.
 
 This is an extraordinarily practical conception. It detaches personhood from the soul (Locke explicitly argues that personal identity does not depend on substance, whether material or immaterial) and attaches it to the continuity of self-awareness over time. A person is whatever can reflectively appropriate its own past actions and be held accountable for them.
 
 ### 6.3 Hume's Challenge
 
-David Hume, a generation after Locke, blew a hole in the entire project. Looking inward for the self, Hume reported finding nothing: "I never can catch myself at any time without a perception, and never can observe anything but the perception." The self, in Hume's famous phrase, is a "bundle of perceptions," a stream of experiences with no underlying substance holding them together. If Hume is right, then the unified, continuous person that Locke describes is a fiction, a convenient habit of the mind rather than a real entity.
+David Hume, a generation after Locke, took the project apart. Looking inward for the self, Hume reported finding nothing: "I never can catch myself at any time without a perception, and never can observe anything but the perception." The self, in Hume's famous phrase, is a "bundle of perceptions," a stream of experiences with no underlying substance holding them together. If Hume is right, then the unified, continuous person that Locke describes is a fiction, a convenient habit of the mind rather than a real entity.
 
 This created a crisis. The legal and moral systems of modern Europe required a stable, continuous person who could be held responsible across time. Hume's empiricism threatened to dissolve that person into a flickering sequence of impressions. Kant's intervention must be understood as a response to this crisis.
 
@@ -216,7 +216,7 @@ The genealogy explains why this situation is so difficult to name. Because all f
 
 ### 8.3 The Epistemic Dimension
 
-The thinning of personhood has an epistemic dimension that connects to the framework of *epistemic lensing*. Each historical layer of personhood was produced through specific mediating channels. Ritual, epic, law, theology, and philosophy are all, among other things, information channels. They transmit a particular picture of what a person is, and in transmitting it, they help bring into existence the kind of person they describe.
+The thinning of personhood has an epistemic dimension that connects to the framework of *epistemic lensing* developed in the companion paper (PIATRA Institute, 2026). Each historical layer of personhood was produced through specific mediating channels. Ritual, epic, law, theology, and philosophy are all, among other things, information channels. They transmit a particular picture of what a person is, and in transmitting it, they help bring into existence the kind of person they describe.
 
 The five layers of personhood are, in this view, five successive epistemic-lensing regimes. Each one shaped the believing agent, bending the structure of the self rather than merely bending belief about the world. Ritual produces kin-embedded persons. Epic produces narratable heroes. Law produces legal subjects. Theology produces guilty consciences. Philosophy produces autonomous reasoners. In each case, the channel does more than inform. It constitutes.
 
@@ -292,6 +292,8 @@ Locke, J. (1689). *An Essay Concerning Human Understanding*. (Various editions.)
 
 Pariser, E. (2011). *The Filter Bubble: What the Internet is Hiding from You*. Penguin.
 
+PIATRA Institute. (2026). *Epistemic Lensing: A Markov-Blanket Account of Mediated Belief Distortion*.
+
 Russo, J. (2012). Re-thinking Homeric psychology. In F. Montanari (Ed.), *Homeric Contexts*. De Gruyter.
 
 Strathern, M. (1988). *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press.
@@ -299,3 +301,5 @@ Strathern, M. (1988). *The Gender of the Gift: Problems with Women and Problems 
 Sunstein, C. R. (2001). *Echo Chambers: Bush v. Gore, Impeachment, and Beyond*. Princeton University Press.
 
 Thomas Aquinas. *Summa Theologiae*. (Various translations.)
+
+Turner, V. (1969). *The Ritual Process: Structure and Anti-Structure*. Aldine.
