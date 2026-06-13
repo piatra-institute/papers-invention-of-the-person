@@ -2,6 +2,17 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-06-13 — voice reform
+
+Voice-reform pass to remove AI-writing tells, per `tooling/docs/voice.md`. No numbers, dates, simulation values, or citations changed.
+
+- Reduced voice review-candidates 6 → 1 (0 errors throughout). Rewrote the inline-contrastive / negate-pivot constructions as positive declaratives: the Turner rite passage (§2.1), the Roman *persona* "defined by capacity, not by inner life" (§4.1), the doubled Boethius parenthetical glosses (§5.3), the two-grades "difference in kind, not degree" (§8.2), and the §9.2 "the model does not discover this asymmetry" (now "inherits this asymmetry... rather than discovering it"). The one remaining warn (§8.2) now reads as a developed positive contrast.
+- Pet-vocabulary: thinned metaphorical "carries" (signature carries/carry 6 → 4) by swapping in "holds" (§7.3) and "rests on" (§9.2); left literal uses ("carry initiates", "works that carry them", "carried out").
+- Density: deleted reflexive "exactly" in the Conclusion and "precisely" in §7.1 (both scope-hedges, now 0).
+- Structure unchanged (10 numbered sections, no structure advisory). Tricolon proxy 63 (advisory; residual is the genealogy's layer enumerations, which are load-bearing).
+
+Verify: `voice` 0 errors; `refs` unchanged (Turner 1969 in-text citation confirmed resolving; the "missing/unused" report is the pre-existing narrative author-year detection advisory, no citations altered); `build` clean (0 missing-char); `check` => PASS.
+
 ## 2026-05-29 (later) — added a computational layer (§9)
 
 The user asked for a computational analysis "of sorts" and, offered three
