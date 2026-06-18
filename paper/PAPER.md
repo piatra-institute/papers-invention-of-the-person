@@ -23,6 +23,8 @@ Each of these constructions was produced in a specific place, by specific instit
 
 When we say "person" today we are saying all five of these things at once, usually without realizing it. The purpose of this paper is to pull the layers apart, to show where each one came from and what it was for, and then to ask what happens to the composite when its institutional supports are withdrawn. The paper's thesis: the Person was assembled in layers, and what was assembled can be disassembled, layer by layer.
 
+The claim that the person is a historical category rather than a natural kind is not new, and the paper should name the two predecessors it starts from. Marcel Mauss, in his 1938 lecture on the notion of the person and the self, first argued that the *personne* and the *moi* have a history, tracing an arc from the Roman juridical *persona* through the Christian moral person to the metaphysical self of Kant and Fichte (Mauss, 1938). Charles Taylor's *Sources of the Self* gave the modern end of that arc its fullest philosophical genealogy (Taylor, 1989). What follows builds on both and departs from them in three ways. It resolves the single developmental arc into five distinct formations, each tied to the institution and the problem that produced it. It treats the result as a composite that is retroactively naturalized, making the question structural, how the layers hold together, and not only historical. And it carries the genealogy into the present, asking what happens to the assembled figure as its institutional supports thin, a disassembly neither predecessor had occasion to consider.
+
 
 ## 2. Layer One: Relational Personhood
 
@@ -313,6 +315,8 @@ Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. (Various translation
 
 Locke, J. (1689). *An Essay Concerning Human Understanding*. (Various editions.)
 
+Mauss, M. (1938). Une categorie de l'esprit humain: la notion de personne, celle de moi. *Journal of the Royal Anthropological Institute*, 68, 263-281. (Huxley Memorial Lecture; English translation in Carrithers, Collins, & Lukes, 1985.)
+
 Pariser, E. (2011). *The Filter Bubble: What the Internet is Hiding from You*. Penguin.
 
 PIATRA Institute. (2026). *Epistemic Lensing: A Markov-Blanket Account of Mediated Belief Distortion*.
@@ -320,6 +324,8 @@ PIATRA Institute. (2026). *Epistemic Lensing: A Markov-Blanket Account of Mediat
 Russo, J. (2012). Re-thinking Homeric psychology. In F. Montanari (Ed.), *Homeric Contexts*. De Gruyter.
 
 Strathern, M. (1988). *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press.
+
+Taylor, C. (1989). *Sources of the Self: The Making of the Modern Identity*. Harvard University Press.
 
 Sunstein, C. R. (2001). *Echo Chambers: Bush v. Gore, Impeachment, and Beyond*. Princeton University Press.
 
