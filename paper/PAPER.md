@@ -327,8 +327,6 @@ Strathern, M. (1988). *The Gender of the Gift: Problems with Women and Problems 
 
 Taylor, C. (1989). *Sources of the Self: The Making of the Modern Identity*. Harvard University Press.
 
-Sunstein, C. R. (2001). *Echo Chambers: Bush v. Gore, Impeachment, and Beyond*. Princeton University Press.
-
 Thomas Aquinas. *Summa Theologiae*. (Various translations.)
 
 Turner, V. (1969). *The Ritual Process: Structure and Anti-Structure*. Aldine.
