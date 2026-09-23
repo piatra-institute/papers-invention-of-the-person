@@ -2,6 +2,17 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — prose revision
+
+Prose rewritten against the house standards. Headings: Abstract; 1 Introduction; 2-6 the five layers (subsections Contribution of the Relational/Epic/Juridical/Interior/Rational Layer; Enkidu and Social Integration; Odysseus and Recognition Tokens; Kant: Transcendental Unity and Autonomy); 7 Socialization and Historicization (Hegel and Mutual Recognition; Foucault and the Production of the Subject; Summary of the Sequence); 8 The Contemporary Thinning (Formal Personhood and Practical Agency, ...); 9 Computational Models (Dated Stratigraphy; Composite Personhood Index; Recognition Network; new 9.4 Limitations); 10 Conclusion.
+Tic counts before -> after: "rather than" 13 -> 0; "the paper/this paper" 6 -> 0; "what follows" 1 -> 0; sentence-initial "This is/That is" 5 -> 0; merely/simply 6 -> 1 (Kant's "never merely as a means").
+Corrections and changes:
+  - Removed the citation of a companion PIATRA paper in section 8.3 and its bibliography entry; the section now states the mediation argument on its own terms and cites Pariser (2011), already in the bibliography.
+  - Quotations of Fowler, Strathern, Abusch, Russo, Locke, Hume, Descartes, Kant, Hegel and Foucault now carry author-year citations to entries already in the bibliography; one unattributed "as one scholar puts it" quotation paraphrased without quotation marks.
+  - Uncited bibliography entries (Assmann 1997, Friston 2013, Kahan 2017) left in place for later reconciliation.
+Grid/number audit: no grid-derived thresholds in the three models (dates are stipulated, the index is a closed-form geometric mean, the network is a single seeded draw). All prose numbers match results.json (4,075; 1,650; 0.39; 0.61; 0.93; 2.4 = 2.381; 14.0; 0.36; 9.5; >25 = 26.41; Gini 0.13 -> 0.61). The second-largest gap (1,169 years, Boethius -> Locke) was stated in prose without a results key; added stratigraphy.second_largest_gap_years and _between, with an assertion that the literate gaps sum to the literate span. Existing results.json values unchanged.
+Figure titles replaced with descriptive ones.
+
 ## 2026-06-13 — voice reform
 
 Voice-reform pass to remove AI-writing tells, per `tooling/docs/voice.md`. No numbers, dates, simulation values, or citations changed.

@@ -48,6 +48,10 @@ def stratigraphy() -> dict:
     gaps = [(seq[i + 1] - seq[i]) for i in range(len(seq) - 1)]
     max_gap = max(gaps)
     gi = gaps.index(max_gap)
+    # second-largest literate gap (the paper cites both)
+    order = sorted(range(len(gaps)), key=lambda i: gaps[i], reverse=True)
+    g2 = order[1]
+    assert gaps[g2] <= max_gap and literate_span == sum(gaps)
     return {
         "n_formations": len(FORMATIONS),
         "order_by_date": ordered,
@@ -55,6 +59,8 @@ def stratigraphy() -> dict:
         "literate_span_years": literate_span,
         "largest_gap_years": max_gap,
         "largest_gap_between": [round(seq[gi]), round(seq[gi + 1])],
+        "second_largest_gap_years": gaps[g2],
+        "second_largest_gap_between": [round(seq[g2]), round(seq[g2 + 1])],
         "formations": [{"layer": n, "year": y, "source": s} for n, y, s in FORMATIONS],
     }
 

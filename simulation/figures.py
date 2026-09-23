@@ -21,7 +21,7 @@ def plot_stratigraphy(path: str) -> None:
     ax.set_yticks(list(y)); ax.set_yticklabels(names)
     ax.set_xscale("symlog")
     ax.set_xlabel("year of emergence (symlog; BCE negative)")
-    ax.set_title("Stratigraphy of personhood: the order of assembly")
+    ax.set_title("Emergence dates of the nine formations of personhood")
     fig.tight_layout(); fig.savefig(path, dpi=140); plt.close(fig)
 
 
@@ -35,7 +35,7 @@ def plot_thinning(path: str) -> None:
     ax.bar(cats, vals, color=colors)
     ax.axhline(t["formal_index"], ls="--", color="#999", lw=1)
     ax.set_ylim(0, 1.05); ax.set_ylabel("personhood index (geometric mean of layer supports)")
-    ax.set_title("Formal personhood intact; practical personhood thinned and unequal")
+    ax.set_title("Formal and practical personhood index by scenario")
     for i, v in enumerate(vals):
         ax.text(i, v + 0.02, f"{v:.2f}", ha="center", fontsize=9)
     fig.tight_layout(); fig.savefig(path, dpi=140); plt.close(fig)
@@ -49,7 +49,7 @@ def plot_recognition(path: str) -> None:
     fig, ax = plt.subplots(figsize=(7, 4.2))
     ax.bar(labels, vals, color=["#1a9850", "#b2182b", "#2166ac"])
     ax.set_ylabel("mean reciprocated (mutual) recognition")
-    ax.set_title("Concentrating who designs the field collapses reciprocity for the many")
+    ax.set_title("Mean reciprocated recognition, egalitarian and concentrated fields")
     for i, v in enumerate(vals):
         ax.text(i, v + 0.1, f"{v:.2f}", ha="center", fontsize=9)
     fig.tight_layout(); fig.savefig(path, dpi=140); plt.close(fig)

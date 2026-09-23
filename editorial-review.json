@@ -1,0 +1,10 @@
+{
+  "manuscript_sha256": "9cc77a3502774b5b816dd35fb391df74ef2097265aa83e5bb158d196a2f0ba62",
+  "full_read": true,
+  "argument_review": true,
+  "structure_review": true,
+  "voice_review": true,
+  "source_review": true,
+  "final_read": true,
+  "notes": "Prose revision: descriptive subsection headings; self-reference, reflexive contrasts and the companion-paper citation removed; abstract rewritten at 258 words with the model results; every number and citation preserved except the removed PIATRA self-citation."
+}

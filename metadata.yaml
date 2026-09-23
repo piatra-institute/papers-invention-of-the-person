@@ -1,14 +1,33 @@
 slug: invention-of-the-person
 web_slug: invention-of-the-person
-title: "The Invention of the Person: A Genealogy of Stratified Personhood"
-header: "The Invention of the Person"
-created: "2026-04"        # inception month (drives YYYY/MM archive path)
-date: "April 2026"            # publication month (shown on web)
+title: 'The Invention of the Person: A Genealogy of Stratified Personhood'
+header: The Invention of the Person
+created: 2026-04
+date: April 2026
 paper_dir: paper
 has_simulation: true
-claims_target: results.json      # results.json | claim-ledger | none
+claims_target: results.json
 repo: git@github.com:piatra-institute/papers-invention-of-the-person.git
 github: https://github.com/piatra-institute/papers-invention-of-the-person
-status: published              # draft | built | published
-abstract: |-
-  The modern Person, the autonomous, rational, rights-bearing individual, is treated in contemporary political and moral thought as a natural category. The argument here treats it as a stratification: a composite assembled over millennia from at least five distinct historical formations. The paper traces those formations in sequence: relational personhood rooted in kinship, ritual, and animism; epic singularization in the narratives of Gilgamesh and Odysseus; juridical personhood as developed in Roman law; interior moral personhood through the innovations of Paul, Augustine, and Boethius; and the autonomous rational subject consolidated by Locke and Kant. The modern individual emerges only when these layers collapse together and are retroactively treated as a single thing. The paper then follows the socialization of this figure through Hegel's theory of recognition and its historicization through Foucault's genealogy of the subject. The final sections examine the contemporary forces thinning the practical conditions of agency: platform capitalism, algorithmic management, the expansion of legal personhood to non-human entities, neurotechnology. Formal personhood remains intact while its institutional supports thin. The central claim is that personhood, having been assembled, can be disassembled, and that this disassembly proceeds today through the hollowing of institutional supports rather than the erasure of the legal category. Three small computational models accompany the argument: a stratigraphy that dates and orders the nine formations, a composite index in which holding formal support fixed while draining practical support reproduces the unequal thinning of agency, and a recognition network in which concentrating who designs the field collapses reciprocated recognition for the many.
+status: published
+abstract: 'Contemporary political and moral thought treats the Person, the autonomous, rational, rights-bearing
+  individual, as a natural category. We treat it as a stratification: a composite assembled over millennia
+  from at least five historical formations, each built by specific institutions to answer a specific problem.
+  Relational personhood, rooted in kinship, ritual, and animism, settles who may be recognized. Epic singularization
+  in *Gilgamesh* and the *Odyssey* makes a single life narratable. Roman law defines the *persona* as
+  a bearer of rights and liabilities. Paul, Augustine, and Boethius add an interior conscience answerable
+  before God and a metaphysical definition of the person. Locke and Kant consolidate the autonomous rational
+  subject that generates moral law from within. The modern individual appears when these layers are fused
+  and retroactively treated as one thing; Hegel''s theory of recognition socializes the figure and Foucault''s
+  genealogy historicizes it. Contemporary platform capitalism, algorithmic management, the extension of
+  legal personhood to non-human entities, and neurotechnology thin the practical conditions of agency
+  while leaving formal personhood intact. Three small models make parts of the argument auditable. Dating
+  the nine formations reproduces the narrative order over a literate span of 4,075 years. A geometric-mean
+  index with formal support fixed at 1.00 gives a profiled human a practical index of 0.39 and an infrastructural
+  human 0.93. In a recognition network, concentrating recognition on six of 120 agents leaves profiled
+  agents with 0.36 reciprocated ties against 9.5 for the minority. Personhood, having been assembled,
+  can be disassembled; today the disassembly proceeds by hollowing institutional supports while the legal
+  category stays in place.'
+web_blurb: 'The modern Person is a composite of five historical formations: kinship, epic, Roman law,
+  Christian conscience and Kantian autonomy. Today its practical supports thin unequally while formal
+  legal personhood stays intact.'

@@ -19,6 +19,11 @@
       -2100,
       -450
     ],
+    "second_largest_gap_years": 1169,
+    "second_largest_gap_between": [
+      520,
+      1689
+    ],
     "formations": [
       {
         "layer": "relational personhood",
