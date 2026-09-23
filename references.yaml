@@ -86,18 +86,6 @@ references:
   issued:
     date-parts:
     - - 1641
-- id: fowler2004
-  type: book
-  title: 'The Archaeology of Personhood: An Anthropological Approach'
-  author:
-  - given: Chris
-    family: Fowler
-  publisher: Routledge
-  DOI: 10.4324/9780203583210
-  issued:
-    date-parts:
-    - - 2004
-  publisher-place: London
 - id: foucault1975
   type: book
   title: 'Surveiller et punir: Naissance de la prison'
@@ -134,6 +122,18 @@ references:
   issued:
     date-parts:
     - - 1984
+- id: fowler2004
+  type: book
+  title: 'The Archaeology of Personhood: An Anthropological Approach'
+  author:
+  - given: Chris
+    family: Fowler
+  publisher: Routledge
+  DOI: 10.4324/9780203583210
+  issued:
+    date-parts:
+    - - 2004
+  publisher-place: London
 - id: gaius1988
   type: book
   title: The Institutes of Gaius
@@ -228,22 +228,20 @@ references:
   issued:
     date-parts:
     - - 2011
-- id: russo1968
+- id: russo2012
   type: article-journal
-  title: Homeric Psychology and the Oral Epic Tradition
+  title: 'Re-thinking Homeric Psychology: Snell, Dodds, and their Critics'
   author:
   - family: Russo
-    given: Joseph
-  - family: Simon
-    given: Bennett
-  container-title: Journal of the History of Ideas
-  volume: '29'
-  issue: '4'
-  page: 483-498
-  DOI: 10.2307/2708290
+    given: Joseph A.
+  container-title: Quaderni Urbinati <span class="nocase">di</span> Cultura Classica
+  volume: '101'
+  issue: '2'
+  page: 11-28
   issued:
     date-parts:
-    - - 1968
+    - - 2012
+  URL: https://www.jstor.org/stable/23347416
 - id: strathern1988
   type: book
   title: 'The Gender of the Gift: Problems with Women and Problems with Society in Melanesia'

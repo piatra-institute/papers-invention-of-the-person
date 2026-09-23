@@ -1,10 +1,10 @@
 {
-  "manuscript_sha256": "093be92c71c5cecbec73d0bd1c833185dd702b2b7b71338829eb2d3819c585f0",
+  "manuscript_sha256": "3eeae469435196d8b848e39c2f24607b7089bcaff39c50a2132d7e6aa3d7a218",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger and execution receipt added. Classical works now cited to specific translations at the passages discussed; one unconfirmable citation (Russo 2012) replaced by Russo and Simon (1968) with its sentence rewritten; three uncited entries removed."
+  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger and execution receipt added. Classical works now cited to specific translations at the passages discussed; one unconfirmable citation (Russo 2012) replaced by Russo and Simon (1968) with its sentence rewritten; three uncited entries removed. The Russo sentence was restored to its original wording with the correct 2012 venue."
 }

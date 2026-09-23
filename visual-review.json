@@ -1,5 +1,5 @@
 {
-  "pdf_sha256": "e27ee9ed0485af59dbeb8631444162c686a6f87cb4c2f314ea1809389d65031e",
+  "pdf_sha256": "ee1bc5003327ec967cc2d7a7a7da0f8223aee08b6db9099765ed2549b00edc96",
   "page_count": 18,
   "pages_inspected": [
     1,
@@ -22,5 +22,5 @@
     18
   ],
   "all_pages_inspected": true,
-  "notes": "All 18 pages inspected after the migration; citations and the citeproc reference list render correctly, no unresolved keys. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (cd6ae4b7a7bb to e27ee9ed0485); the rendered text is byte-for-byte identical and no page was re-inspected."
+  "notes": "All 18 pages inspected after the migration; pages 6 and 18 re-inspected after restoring the Russo (2012) sentence and entry. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (1a25f0e7f782 to ee1bc5003327); the rendered text is byte-for-byte identical and no page was re-inspected."
 }

@@ -71,7 +71,7 @@ The recognition scenes are the poem's main apparatus of personhood. The old nurs
 
 Identity in the *Odyssey* is relational, since another person must confirm it, and also singular, since it attaches to one individual with one history. Odysseus is interchangeable with no one. His scar, his bed, his dog, and his marriage are *his*. The poem holds that personhood is a matter of particular biography, that there is something it is to be *this* person and no other.
 
-Bruno Snell's older thesis that Homeric people lacked a unified self has been largely abandoned by classicists. Joseph Russo and Bennett Simon explained the distinctive Homeric representation of mental life as a product of oral epic composition, without concluding from it that Homeric people lacked a unified mind [@russo1968]. The *Odyssey* remains important here for the literary apparatus it develops: the fake autobiography, the strategic concealment of identity, the recognition token, and the question of how one person remains the same across altered circumstances and very different social settings.
+Bruno Snell's older thesis that Homeric people lacked a unified self has been largely abandoned by classicists. Joseph Russo called Snell's contention "fundamentally misguided," while acknowledging that Homeric psychology differs from later Greek thought [@russo2012]. The *Odyssey* remains important here for the literary apparatus it develops: the fake autobiography, the strategic concealment of identity, the recognition token, and the question of how one person remains the same across altered circumstances and very different social settings.
 
 ### 3.3 Contribution of the Epic Layer
 
