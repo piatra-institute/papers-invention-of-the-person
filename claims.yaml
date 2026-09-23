@@ -1,0 +1,287 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: 093be92c71c5cecbec73d0bd1c833185dd702b2b7b71338829eb2d3819c585f0
+claims:
+- id: abs-span
+  kind: computation
+  passage: Dating the nine formations reproduces the narrative order over a literate span of 4,075 years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /stratigraphy/literate_span_years
+    reported: 4,075
+    units: years from epic layer to Foucault
+    conditions: dated stratigraphy of nine representative onsets (model 1, deterministic)
+    decimals: 0
+- id: abs-formal
+  kind: computation
+  passage: A geometric-mean index with formal support fixed at 1.00 gives a profiled human a practical index of
+    0.39 and an infrastructural human 0.93.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/formal_index
+    reported: '1.00'
+    units: formal index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: abs-profiled
+  kind: computation
+  passage: A geometric-mean index with formal support fixed at 1.00 gives a profiled human a practical index of
+    0.39 and an infrastructural human 0.93.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/profiled_practical_index
+    reported: '0.39'
+    units: practical index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: abs-infra
+  kind: computation
+  passage: A geometric-mean index with formal support fixed at 1.00 gives a profiled human a practical index of
+    0.39 and an infrastructural human 0.93.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/infrastructural_practical_index
+    reported: '0.93'
+    units: practical index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: abs-agents
+  kind: computation
+  passage: In a recognition network, concentrating recognition on six of 120 agents leaves profiled agents with
+    0.36 reciprocated ties against 9.5 for the minority.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/n_agents
+    reported: '120'
+    units: agents
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 0
+- id: abs-prof-mutual
+  kind: computation
+  passage: In a recognition network, concentrating recognition on six of 120 agents leaves profiled agents with
+    0.36 reciprocated ties against 9.5 for the minority.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/concentrated_mean_mutual_profiled
+    reported: '0.36'
+    units: mean reciprocated ties per profiled agent
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 2
+- id: abs-infra-mutual
+  kind: computation
+  passage: In a recognition network, concentrating recognition on six of 120 agents leaves profiled agents with
+    0.36 reciprocated ties against 9.5 for the minority.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/concentrated_mean_mutual_infrastructural
+    reported: '9.5'
+    units: mean reciprocated ties per infrastructural agent
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 1
+- id: span
+  kind: computation
+  passage: The dates quantify "assembled over millennia." From the epic layer to Foucault the span is 4,075 years;
+    including the relational layer in deep prehistory extends it past a hundred thousand.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /stratigraphy/literate_span_years
+    reported: 4,075
+    units: years
+    conditions: dated stratigraphy of nine representative onsets (model 1, deterministic)
+    decimals: 0
+- id: gap1
+  kind: computation
+  passage: The longest literate gap, 1,650 years, separates epic singularization from Roman juridical personhood.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /stratigraphy/largest_gap_years
+    reported: 1,650
+    units: years
+    conditions: dated stratigraphy of nine representative onsets (model 1, deterministic)
+    decimals: 0
+- id: gap2
+  kind: computation
+  passage: The second longest, 1,169 years, is the medieval interval between Boethius and Locke, during which the
+    metaphysical definition stood without the self-continuity layer Locke later added.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /stratigraphy/second_largest_gap_years
+    reported: 1,169
+    units: years
+    conditions: dated stratigraphy of nine representative onsets (model 1, deterministic)
+    decimals: 0
+- id: formal
+  kind: computation
+  passage: With formal support held at its maximum for every layer, the formal index is 1.00, corresponding to the
+    legal category that section 8.4 describes as intact and expanding.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/formal_index
+    reported: '1.00'
+    units: formal index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: profiled
+  kind: computation
+  passage: A profiled human, with belonging, narratable identity, capacity to contest, inner privacy, and self-directed
+    attention all partly drained, scores 0.39 on the practical index while remaining at 1.00 formally; the gap of
+    0.61 expresses "formally a person, practically thinned" as a quantity.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/profiled_practical_index
+    reported: '0.39'
+    units: practical index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: profiled-gap
+  kind: computation
+  passage: A profiled human, with belonging, narratable identity, capacity to contest, inner privacy, and self-directed
+    attention all partly drained, scores 0.39 on the practical index while remaining at 1.00 formally; the gap of
+    0.61 expresses "formally a person, practically thinned" as a quantity.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/profiled_formal_practical_gap
+    reported: '0.61'
+    units: formal minus practical
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: infra
+  kind: computation
+  passage: An infrastructural human, whose agency the same systems amplify, scores 0.93.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/infrastructural_practical_index
+    reported: '0.93'
+    units: practical index
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 2
+- id: ratio
+  kind: computation
+  passage: The practical personhood of the two grades differs by a factor of about 2.4 at identical formal personhood.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /thinning/infrastructural_over_profiled
+    reported: '2.4'
+    units: ratio of practical indices
+    conditions: geometric-mean composite personhood index with stipulated supports (model 2, deterministic)
+    decimals: 1
+- id: net-120
+  kind: computation
+  passage: A population of 120 agents recognize one another, and realized personhood is measured as reciprocated
+    recognition, the relations that run in both directions.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/n_agents
+    reported: '120'
+    units: agents
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 0
+- id: prof-mutual
+  kind: computation
+  passage: 'Reciprocated recognition then collapses for the majority: a profiled agent retains on average about
+    0.36 mutual ties, while an infrastructural agent retains about 9.5, a ratio of more than twenty-five to one.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/concentrated_mean_mutual_profiled
+    reported: '0.36'
+    units: mean reciprocated ties
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 2
+- id: infra-mutual
+  kind: computation
+  passage: 'Reciprocated recognition then collapses for the majority: a profiled agent retains on average about
+    0.36 mutual ties, while an infrastructural agent retains about 9.5, a ratio of more than twenty-five to one.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/concentrated_mean_mutual_infrastructural
+    reported: '9.5'
+    units: mean reciprocated ties
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 1
+- id: gini-eg
+  kind: computation
+  passage: The Gini coefficient of recognition received rises from 0.13 in the egalitarian field to 0.61 in the
+    concentrated one.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/recognition_gini_egalitarian
+    reported: '0.13'
+    units: Gini of recognition received
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 2
+- id: gini-conc
+  kind: computation
+  passage: The Gini coefficient of recognition received rises from 0.13 in the egalitarian field to 0.61 in the
+    concentrated one.
+  evidence:
+    file: simulation/output/results.json
+    run_id: model
+    pointer: /recognition/recognition_gini_concentrated
+    reported: '0.61'
+    units: Gini of recognition received
+    conditions: recognition network of 120 agents, 6 infrastructural (model 3, seeded)
+    decimals: 2
+- id: russo-simon
+  kind: source
+  passage: Joseph Russo and Bennett Simon explained the distinctive Homeric representation of mental life as a product
+    of oral epic composition, without concluding from it that Homeric people lacked a unified mind [@russo1968].
+  evidence:
+    citation_id: russo1968
+    locator: pp. 483-484
+    verified: true
+    verification_note: 'Opening text of DOI 10.2307/2708290 (via OpenAlex): the paper proposes a framework explaining
+      the Homeric modes of representing mental life as a concomitant of oral epic composition, engaging Snell''s
+      thesis about the Homeric conception of man.'
+- id: thesis
+  kind: interpretation
+  passage: 'We treat it as a stratification: a composite assembled over millennia from at least five historical
+    formations, each built by specific institutions to answer a specific problem.'
+  rationale: 'Central thesis: the Person is a composite of historically distinct formations; argued genealogically,
+    not derived from the models.'
+- id: def-index
+  kind: definition
+  passage: The personhood index is the geometric mean of the layer supports.
+  rationale: Defines the composite index; the geometric mean encodes the claim that one near-zero layer cannot be
+    compensated.
+- id: assume-stipulated
+  kind: assumption
+  passage: The support values are stipulated, so the model inherits the asymmetry from the claims of section 8 and
+    does not discover it.
+  rationale: The index model inherits the asymmetry from stipulated supports; it checks composition, not magnitude.
+- id: assume-dates
+  kind: assumption
+  passage: The dates are representative onsets chosen from the cited works, and the gaps inherit their imprecision.
+  rationale: Dating is representative; gaps inherit the imprecision of the onsets.
+- id: interp-reciprocity
+  kind: interpretation
+  passage: What most agents lose is reciprocity, which on the Hegelian account is what makes recognition constitutive
+    of a self and distinguishes it from registration.
+  rationale: Hegelian reading of the recognition-network result.
+- id: interp-legal
+  kind: interpretation
+  passage: Legal personhood was never a natural kind; it was always an institutional assignment, a decision by a
+    political authority about who or what would count as a bearer of rights and obligations.
+  rationale: Interpretation of the expansion of legal personhood to non-human entities.
+runs:
+- id: model
+  required: true
+  record: verification/model.json

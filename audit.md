@@ -2,6 +2,21 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 23 CSL entries. 5 with DOIs resolved through doi.org content negotiation (abusch2015, fowler2004, mauss1938, russo1968, strathern1988); 18 entered by hand. Crossref's automatic match for pariser2011 was a book review and was replaced by the Penguin Press book. sources.md created to hold the provenance note.
+- Classical works previously listed as "(Various translations)" and cited by name only now carry citations to standard translations at the passages discussed: aristotle1999 (Irwin), augustine1991 (Chadwick), boethius1973 (Loeb, Contra Eutychen ch. 3), gaius1988 (Gordon and Robinson, Institutes 1.8 and 1.9, attached to the two quotations), aquinas1920 (English Dominican translation, ST I q. 29 a. 1). Descartes, Locke, Hume, Kant and Hegel stay cited by original year without an edition.
+- Correction: Foucault 1975/1976/1984 had English titles paired with Gallimard and the French dates; now cited as the Gallimard originals under their French titles (Surveiller et punir; Histoire de la sexualité 1 and 3).
+- Correction: abusch2015 chapter "The development of the Epic of Gilgamesh" does not exist under that title; the book (Male and Female in the Epic of Gilgamesh: Encounters, Literary History, and Interpretation, Eisenbrauns 2015) is cited.
+- Correction (prose): "Russo (2012), Re-thinking Homeric psychology, in Montanari (ed.), Homeric Contexts" could not be confirmed (no Russo chapter in the Crossref table of contents of Homeric Contexts; no matching 2012 item in Crossref or OpenAlex). The sentence "Joseph Russo called Snell's contention 'fundamentally misguided,' while acknowledging that Homeric psychology differs from later Greek thought (Russo, 2012)" -> "Joseph Russo and Bennett Simon explained the distinctive Homeric representation of mental life as a product of oral epic composition, without concluding from it that Homeric people lacked a unified mind [@russo1968]" (Journal of the History of Ideas 29(4), DOI 10.2307/2708290).
+- Removed uncited entries with no supporting passage: kahan2017, friston2013, assmann1997.
+- Mauss (1938) page range completed (263-281).
+- claims.yaml: 27 claims (20 computation, 1 source, 1 definition, 2 assumption, 3 interpretation), bound to simulation/output/results.json run model.
+- Source statements not bound: Fowler (2004) and Abusch (2015) quotations (abstracts support the paraphrase, not the wording); Mauss (1938), Taylor (1989), Strathern (1988), Turner (1969), Pariser (2011) and the classical and early-modern works (no retrievable abstract, or primary texts).
+- Execution receipt: run id model (uv run python run_all.py); results.json reproduced byte-identically.
+- metadata claims_target: claim-ledger.
+
 ## 2026-09-23 — prose revision
 
 Prose rewritten against the house standards. Headings: Abstract; 1 Introduction; 2-6 the five layers (subsections Contribution of the Relational/Epic/Juridical/Interior/Rational Layer; Enkidu and Social Integration; Odysseus and Recognition Tokens; Kant: Transcendental Unity and Autonomy); 7 Socialization and Historicization (Hegel and Mutual Recognition; Foucault and the Production of the Subject; Summary of the Sequence); 8 The Contemporary Thinning (Formal Personhood and Practical Agency, ...); 9 Computational Models (Dated Stratigraphy; Composite Personhood Index; Recognition Network; new 9.4 Limitations); 10 Conclusion.

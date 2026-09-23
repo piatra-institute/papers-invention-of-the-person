@@ -1,0 +1,191 @@
+[
+ {
+  "id": "abusch2015",
+  "families": [
+   "Abusch"
+  ],
+  "authors_text": "Abusch, T.",
+  "year": "2015",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "assmann1997",
+  "families": [
+   "Assmann"
+  ],
+  "authors_text": "Assmann, J.",
+  "year": "1997",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "descartes1641",
+  "families": [
+   "Descartes"
+  ],
+  "authors_text": "Descartes, R.",
+  "year": "1641",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "fowler2004",
+  "families": [
+   "Fowler"
+  ],
+  "authors_text": "Fowler, C.",
+  "year": "2004",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "foucault1975",
+  "families": [
+   "Foucault"
+  ],
+  "authors_text": "Foucault, M.",
+  "year": "1975",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "foucault1976",
+  "families": [
+   "Foucault"
+  ],
+  "authors_text": "Foucault, M.",
+  "year": "1976",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "foucault1984",
+  "families": [
+   "Foucault"
+  ],
+  "authors_text": "Foucault, M.",
+  "year": "1984",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "friston2013",
+  "families": [
+   "Friston"
+  ],
+  "authors_text": "Friston, K.",
+  "year": "2013",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "hegel1807",
+  "families": [
+   "Hegel"
+  ],
+  "authors_text": "Hegel, G. W. F.",
+  "year": "1807",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "hegel1820",
+  "families": [
+   "Hegel"
+  ],
+  "authors_text": "Hegel, G. W. F.",
+  "year": "1820",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "hume1739",
+  "families": [
+   "Hume"
+  ],
+  "authors_text": "Hume, D.",
+  "year": "1739",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "kahan2017",
+  "families": [
+   "Kahan"
+  ],
+  "authors_text": "Kahan, D. M. et al.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "kant1781",
+  "families": [
+   "Kant"
+  ],
+  "authors_text": "Kant, I.",
+  "year": "1781",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "kant1785",
+  "families": [
+   "Kant"
+  ],
+  "authors_text": "Kant, I.",
+  "year": "1785",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "locke1689",
+  "families": [
+   "Locke"
+  ],
+  "authors_text": "Locke, J.",
+  "year": "1689",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "mauss1938",
+  "families": [
+   "Mauss"
+  ],
+  "authors_text": "Mauss, M.",
+  "year": "1938",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "pariser2011",
+  "families": [
+   "Pariser"
+  ],
+  "authors_text": "Pariser, E.",
+  "year": "2011",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "russo2012",
+  "families": [
+   "Russo"
+  ],
+  "authors_text": "Russo, J.",
+  "year": "2012",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "strathern1988",
+  "families": [
+   "Strathern"
+  ],
+  "authors_text": "Strathern, M.",
+  "year": "1988",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "taylor1989",
+  "families": [
+   "Taylor"
+  ],
+  "authors_text": "Taylor, C.",
+  "year": "1989",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "turner1969",
+  "families": [
+   "Turner"
+  ],
+  "authors_text": "Turner, V.",
+  "year": "1969",
+  "status": "UNVERIFIED"
+ }
+]

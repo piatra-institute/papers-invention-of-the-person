@@ -23,7 +23,7 @@ Each construction arose in a specific place, through specific institutions, in r
 
 The word "person" in current use carries all five meanings at once, usually unnoticed. The sections below separate the layers, trace where each came from and what it was for, and then ask what happens to the composite when its institutional supports are withdrawn. The thesis is that the Person was assembled in layers and that what was assembled can be disassembled layer by layer.
 
-The claim that the person is a historical category, and no natural kind, has two main predecessors. Marcel Mauss, in his 1938 lecture on the notion of the person and the self, argued that the *personne* and the *moi* have a history, tracing an arc from the Roman juridical *persona* through the Christian moral person to the metaphysical self of Kant and Fichte (Mauss, 1938). Charles Taylor's *Sources of the Self* gave the modern end of that arc its fullest philosophical genealogy (Taylor, 1989). The present account builds on both and departs from them in three respects. It resolves the single developmental arc into five distinct formations, each tied to the institution and the problem that produced it. It treats the result as a composite that is retroactively naturalized, which makes the question structural (how the layers hold together) as well as historical. And it carries the genealogy into the present, asking what happens to the assembled figure as its institutional supports thin, a question neither predecessor had occasion to consider.
+The claim that the person is a historical category, and no natural kind, has two main predecessors. Marcel Mauss, in his 1938 lecture on the notion of the person and the self, argued that the *personne* and the *moi* have a history, tracing an arc from the Roman juridical *persona* through the Christian moral person to the metaphysical self of Kant and Fichte [@mauss1938]. Charles Taylor's *Sources of the Self* gave the modern end of that arc its fullest philosophical genealogy [@taylor1989]. The present account builds on both and departs from them in three respects. It resolves the single developmental arc into five distinct formations, each tied to the institution and the problem that produced it. It treats the result as a composite that is retroactively naturalized, which makes the question structural (how the layers hold together) as well as historical. And it carries the genealogy into the present, asking what happens to the assembled figure as its institutional supports thin, a question neither predecessor had occasion to consider.
 
 
 ## 2. Layer One: Relational Personhood
@@ -32,11 +32,11 @@ The claim that the person is a historical category, and no natural kind, has two
 
 The oldest evidence about human selfhood, drawn from archaeology and ethnography, indicates that the bounded individual is a late development. For most of human history, and in many societies today, personhood has been relational and distributed, achieved through social participation and withheld at birth.
 
-Chris Fowler, synthesizing decades of archaeological and anthropological work, states the position directly: "Persons are constituted through relationships not only with other human beings but with things, places, animals and the spiritual features of the cosmos" (Fowler, 2004). Identity in this model is fluid. People pass through stages of personhood during life and after death. The boundary between human and non-human is porous: animals, objects, ancestors, and spirits may count as persons in some societies, while living humans may fall short of full personhood until they have been ritually integrated.
+Chris Fowler, synthesizing decades of archaeological and anthropological work, states the position directly: "Persons are constituted through relationships not only with other human beings but with things, places, animals and the spiritual features of the cosmos" [@fowler2004]. Identity in this model is fluid. People pass through stages of personhood during life and after death. The boundary between human and non-human is porous: animals, objects, ancestors, and spirits may count as persons in some societies, while living humans may fall short of full personhood until they have been ritually integrated.
 
-Melanesian ethnography supplies the most developed theoretical framework for this kind of selfhood. Marilyn Strathern's concept of the "dividual" describes persons composed of the relations in which they participate (Strathern, 1988). On this account a Melanesian person is a composite of substances, names, obligations, and gifts that circulate through social networks, and has no bounded interior holding an inner self. One part of a person belongs to the mother's clan, another to an exchange partner, another was deposited through ritual. The person is made, literally, of relations.
+Melanesian ethnography supplies the most developed theoretical framework for this kind of selfhood. Marilyn Strathern's concept of the "dividual" describes persons composed of the relations in which they participate [@strathern1988]. On this account a Melanesian person is a composite of substances, names, obligations, and gifts that circulate through social networks, and has no bounded interior holding an inner self. One part of a person belongs to the mother's clan, another to an exchange partner, another was deposited through ritual. The person is made, literally, of relations.
 
-The practical consequences are direct. In many such societies a newborn is not yet a full person. Personhood is achieved through naming ceremonies, through the accumulation of social debts and credits, and through recognition by elders and integration into the kinship system. Someone who dies without proper burial rites may lose personhood and become a dangerous ghost instead of a respected ancestor. Personhood is a status that the community confers and, under certain conditions, withdraws. Victor Turner's analysis of ritual specifies the mechanism: rites of passage carry initiates across a threshold of status, and the rite confers the new standing, which biological maturation alone never supplies (Turner, 1969).
+The practical consequences are direct. In many such societies a newborn is not yet a full person. Personhood is achieved through naming ceremonies, through the accumulation of social debts and credits, and through recognition by elders and integration into the kinship system. Someone who dies without proper burial rites may lose personhood and become a dangerous ghost instead of a respected ancestor. Personhood is a status that the community confers and, under certain conditions, withdraws. Victor Turner's analysis of ritual specifies the mechanism: rites of passage carry initiates across a threshold of status, and the rite confers the new standing, which biological maturation alone never supplies [@turner1969].
 
 The anthropological literature treats this as a coherent answer to the same question the modern West answers differently. The modern West locates personhood inside the individual, as an inherent property of the biological organism; relational societies locate it in the space between people. Both answers function. They produce different forms of social organization, different moral reasoning, and different vulnerabilities. The relational person is exposed to social exclusion; the bounded individual is exposed to isolation and anomie.
 
@@ -61,7 +61,7 @@ The earliest surviving literary epics dramatize becoming a person as a movement 
 
 In the *Epic of Gilgamesh*, composed in various forms from roughly 2100 BCE onward, Enkidu embodies this transition. He begins as a wild creature living among animals, drinking at their watering holes, ignorant of human society. He enters the human world through a fixed sequence: sexual initiation with Shamhat, the temple prostitute; the wearing of clothes; bread and beer; entry into the city of Uruk; and, above all, friendship with Gilgamesh. Only after all of these does Enkidu count as human.
 
-In *Gilgamesh*, personhood is social integration. Each step draws Enkidu further from the animal world and deeper into human obligations, pleasures, and limits. He gains language, companionship, grief, and eventually death. The poem presents none of this as automatic: Enkidu's personhood is achieved step by step through encounters with other people and with the institutions of the city. Tzvi Abusch reads Gilgamesh himself as "assembled from multiple identities," part man, part hero, part king, part god, with the poem staging a long conflict between heroic excess and the limits that mortality and communal life impose on even the most powerful individual (Abusch, 2015).
+In *Gilgamesh*, personhood is social integration. Each step draws Enkidu further from the animal world and deeper into human obligations, pleasures, and limits. He gains language, companionship, grief, and eventually death. The poem presents none of this as automatic: Enkidu's personhood is achieved step by step through encounters with other people and with the institutions of the city. Tzvi Abusch reads Gilgamesh himself as "assembled from multiple identities," part man, part hero, part king, part god, with the poem staging a long conflict between heroic excess and the limits that mortality and communal life impose on even the most powerful individual [@abusch2015].
 
 ### 3.2 Odysseus and Recognition Tokens
 
@@ -71,7 +71,7 @@ The recognition scenes are the poem's main apparatus of personhood. The old nurs
 
 Identity in the *Odyssey* is relational, since another person must confirm it, and also singular, since it attaches to one individual with one history. Odysseus is interchangeable with no one. His scar, his bed, his dog, and his marriage are *his*. The poem holds that personhood is a matter of particular biography, that there is something it is to be *this* person and no other.
 
-Bruno Snell's older thesis that Homeric people lacked a unified self has been largely abandoned by classicists. Joseph Russo called Snell's contention "fundamentally misguided," while acknowledging that Homeric psychology differs from later Greek thought (Russo, 2012). The *Odyssey* remains important here for the literary apparatus it develops: the fake autobiography, the strategic concealment of identity, the recognition token, and the question of how one person remains the same across altered circumstances and very different social settings.
+Bruno Snell's older thesis that Homeric people lacked a unified self has been largely abandoned by classicists. Joseph Russo and Bennett Simon explained the distinctive Homeric representation of mental life as a product of oral epic composition, without concluding from it that Homeric people lacked a unified mind [@russo1968]. The *Odyssey* remains important here for the literary apparatus it develops: the fake autobiography, the strategic concealment of identity, the recognition token, and the question of how one person remains the same across altered circumstances and very different social settings.
 
 ### 3.3 Contribution of the Epic Layer
 
@@ -86,7 +86,7 @@ The epic hero has neither legal standing in the Roman sense nor inner conscience
 
 The Romans built something neither kinship societies nor epic poets had attempted: a formal institutional technology for assigning personhood as a legal status. In Roman law *persona* denotes a being that can bear rights and obligations within a legal system. Capacity defines it; inner life and narrative identity are irrelevant to it.
 
-The jurist Gaius, writing in the 2nd century CE, organized the whole of the law around a threefold division: "The whole of the law which we use relates either to persons or to things or to actions." His *Institutes*, a foundational text of European legal education, classify all humans under the "law of persons," organized primarily by the distinction between free and slave: "the primary distinction in the law of persons is that all men are either free or slaves."
+The jurist Gaius, writing in the 2nd century CE, organized the whole of the law around a threefold division: "The whole of the law which we use relates either to persons or to things or to actions" [@gaius1988, 1.8]. His *Institutes*, a foundational text of European legal education, classify all humans under the "law of persons," organized primarily by the distinction between free and slave: "the primary distinction in the law of persons is that all men are either free or slaves" [@gaius1988, 1.9].
 
 The conceptual step is large. For Gaius, personhood is a *legal category*, a status within an institutional system, and whether someone counts as a person depends on whether the law recognizes them as one. A slave is biologically human and can think, feel, suffer, and reason, yet for most legal purposes is a *res*, a thing, an item of property. A free Roman citizen holds full *status capitis*. A foreigner has partial standing. A woman has standing constrained in specific ways. The *paterfamilias*, the male head of household, holds power over his children and slaves that is itself a form of legal personhood, a node of authority within the legal order.
 
@@ -105,13 +105,13 @@ Contemporary debates about corporate personhood, animal rights, and the legal st
 
 The Christian transformation of personhood is the most consequential single development in the genealogy. It added a new dimension: depth.
 
-Before Paul, morality in the Greco-Roman world was largely a matter of action, character, and social reputation. Aristotle's ethics concerns habituation, virtue, and the good life lived in community. Guilt in the Greek tragic tradition attaches to what was done, even inadvertently: Oedipus is guilty because he killed his father and married his mother, regardless of his intentions or knowledge.
+Before Paul, morality in the Greco-Roman world was largely a matter of action, character, and social reputation. Aristotle's ethics concerns habituation, virtue, and the good life lived in community [@aristotle1999]. Guilt in the Greek tragic tradition attaches to what was done, even inadvertently: Oedipus is guilty because he killed his father and married his mother, regardless of his intentions or knowledge.
 
 Paul of Tarsus described a law written on the heart, a conscience that serves as an inner witness. The Epistle to the Romans places moral judgment inside each person: even Gentiles, who lack the Mosaic law, "show that the requirements of the law are written on their hearts, their consciences also bearing witness." With this move, morality ceases to be primarily a matter of public conduct and becomes a matter of what happens within. Intentions, desires, and inner consent acquire a moral weight they had not carried before.
 
 ### 5.2 Augustine and the Divided Will
 
-Augustine of Hippo, writing in the 5th century, turned Paul's inwardness into a developed moral psychology. The *Confessions* are, among other things, a sustained investigation of the inner life: the structure of memory, the experience of time, the phenomenon of conflicting desires. Augustine discovered, or constructed, the divided will, the experience of simultaneously wanting and not wanting, of being pulled two ways by desires that reason alone cannot reconcile.
+Augustine of Hippo, writing in the 5th century, turned Paul's inwardness into a developed moral psychology. The *Confessions* are, among other things, a sustained investigation of the inner life: the structure of memory, the experience of time, the phenomenon of conflicting desires [@augustine1991]. Augustine discovered, or constructed, the divided will, the experience of simultaneously wanting and not wanting, of being pulled two ways by desires that reason alone cannot reconcile.
 
 The divided will matters for personhood because it locates moral responsibility below the level of action and even of deliberation. For Augustine sin lies ultimately in the orientation of the will, in what the self loves and consents to. A person can do the right thing for the wrong reason and still be guilty before God; conversely, a person who fails to act rightly out of weakness while genuinely willing the good has also done something of moral significance. The interior theater of guilt, confession, desire, and self-scrutiny that Augustine built shaped Western subjectivity for the next fifteen centuries. The Catholic confessional, Protestant self-examination, psychoanalysis, and modern therapeutic culture all descend, in different ways, from it.
 
@@ -119,9 +119,9 @@ Augustine adds depth to personhood. Before him a person might be a kin-embedded 
 
 ### 5.3 Boethius and the Metaphysical Definition
 
-Boethius, writing in the early 6th century, gave the definition of "person" that medieval philosophy inherited: *naturae rationalis individua substantia*, "an individual substance of a rational nature." The formula makes three claims. A person is metaphysically individual, this particular being, set apart from any class to which it belongs. A person is a substance, existing in its own right and standing under its properties instead of inhering in something else. And a person is rational, capable of thought, judgment, and deliberation.
+Boethius, writing in the early 6th century, gave the definition of "person" that medieval philosophy inherited: *naturae rationalis individua substantia*, "an individual substance of a rational nature" [@boethius1973, ch. 3]. The formula makes three claims. A person is metaphysically individual, this particular being, set apart from any class to which it belongs. A person is a substance, existing in its own right and standing under its properties instead of inhering in something else. And a person is rational, capable of thought, judgment, and deliberation.
 
-Boethius formulated the definition within Christological debates about the persons of the Trinity, but its influence reached far beyond theology. Thomas Aquinas adopted it and placed the Boethian person within his hylomorphic metaphysics as a soul-body composite: rational, embodied, and answerable to God. The effect was to give "person" a metaphysical weight it had lacked in Roman law. A Roman *persona* is a legal role; a Boethian person is a *kind of being*. The category moved from the courtroom into the structure of reality.
+Boethius formulated the definition within Christological debates about the persons of the Trinity, but its influence reached far beyond theology. Thomas Aquinas adopted it and placed the Boethian person within his hylomorphic metaphysics as a soul-body composite: rational, embodied, and answerable to God [@aquinas1920, pt. I, q. 29, a. 1]. The effect was to give "person" a metaphysical weight it had lacked in Roman law. A Roman *persona* is a legal role; a Boethian person is a *kind of being*. The category moved from the courtroom into the structure of reality.
 
 ### 5.4 Contribution of the Interior Layer
 
@@ -134,11 +134,11 @@ The same layer that makes confession possible also makes surveillance attractive
 
 ### 6.1 Descartes and the Thinking Substance
 
-Descartes precedes Locke and Kant in the construction. His *cogito ergo sum* places the thinking self at the foundation of all knowledge: the one thing that cannot be doubted is that one is thinking (Descartes, 1641). The self becomes a thinking substance, a *res cogitans*, distinct in kind from the extended material world. Descartes does not use the word "person" in his most influential arguments, but he establishes the modern equation of selfhood with consciousness on which Locke builds.
+Descartes precedes Locke and Kant in the construction. His *cogito ergo sum* places the thinking self at the foundation of all knowledge: the one thing that cannot be doubted is that one is thinking [@descartes1641]. The self becomes a thinking substance, a *res cogitans*, distinct in kind from the extended material world. Descartes does not use the word "person" in his most influential arguments, but he establishes the modern equation of selfhood with consciousness on which Locke builds.
 
 ### 6.2 Locke: Person as a Forensic Term
 
-John Locke, writing at the end of the 17th century, reframed the person in psychological and legal terms at once. A person, Locke writes, is "a thinking, intelligent Being, that has reason and reflection, and can consider itself as itself, the same thinking thing in different times and places" (Locke, 1689). The definition is psychological. Locke then adds that "person" is a *forensic term*: "appropriating actions and their merit; and so belongs only to intelligent agents, capable of a law, and happiness, and misery."
+John Locke, writing at the end of the 17th century, reframed the person in psychological and legal terms at once. A person, Locke writes, is "a thinking, intelligent Being, that has reason and reflection, and can consider itself as itself, the same thinking thing in different times and places" [@locke1689]. The definition is psychological. Locke then adds that "person" is a *forensic term*: "appropriating actions and their merit; and so belongs only to intelligent agents, capable of a law, and happiness, and misery."
 
 A forensic concept exists for the purpose of attribution. The category of person is needed to say that this individual did this thing, is responsible for it, and can be rewarded or punished accordingly. For Locke, personal identity across time is continuity of consciousness, specifically of memory. Someone is the same person who committed a crime last year because they can remember committing it, or at least remember being the kind of being who could have committed it. Where memory is absent and consciousness fully discontinuous, Locke treats sameness of person as a genuine open question.
 
@@ -146,15 +146,15 @@ The conception is practical. It detaches personhood from the soul (Locke argues 
 
 ### 6.3 Hume's Challenge
 
-David Hume, a generation after Locke, dismantled the project. Looking inward for the self, Hume reported finding nothing: "I never can catch myself at any time without a perception, and never can observe anything but the perception" (Hume, 1739). The self, in his phrase, is a "bundle of perceptions," a stream of experiences with no underlying substance holding it together. If Hume is right, the unified, continuous person Locke describes is a fiction, a habit of the mind with no real entity behind it.
+David Hume, a generation after Locke, dismantled the project. Looking inward for the self, Hume reported finding nothing: "I never can catch myself at any time without a perception, and never can observe anything but the perception" [@hume1739]. The self, in his phrase, is a "bundle of perceptions," a stream of experiences with no underlying substance holding it together. If Hume is right, the unified, continuous person Locke describes is a fiction, a habit of the mind with no real entity behind it.
 
 The result was a crisis. The legal and moral systems of modern Europe required a stable, continuous person who could be held responsible across time, and Hume's empiricism threatened to dissolve that person into a sequence of impressions. Kant's intervention answers this crisis.
 
 ### 6.4 Kant: Transcendental Unity and Autonomy
 
-Kant, writing in the late 18th century, resolved the crisis by changing the question. He conceded that the self cannot be found as an object of experience; on that point Hume was right. He argued instead that the self is presupposed as a *condition* of experience. The "I think" must be able to accompany all my representations; without a unified subject there would be no experience at all, only unconnected sensory fragments (Kant, 1781). The self is therefore a transcendental requirement, and no empirical discovery could supply or remove it.
+Kant, writing in the late 18th century, resolved the crisis by changing the question. He conceded that the self cannot be found as an object of experience; on that point Hume was right. He argued instead that the self is presupposed as a *condition* of experience. The "I think" must be able to accompany all my representations; without a unified subject there would be no experience at all, only unconnected sensory fragments [@kant1781]. The self is therefore a transcendental requirement, and no empirical discovery could supply or remove it.
 
-On the moral side Kant produced an equally strong synthesis. Every rational being, he argued, must be regarded as an end in itself and never merely as a means to someone else's purposes (Kant, 1785). The source of this dignity is rational autonomy, the capacity to give oneself moral law. The person is an autonomous lawgiver: moral law comes from the rational will legislating universally, and neither God, the state, nor tradition is its source.
+On the moral side Kant produced an equally strong synthesis. Every rational being, he argued, must be regarded as an end in itself and never merely as a means to someone else's purposes [@kant1785]. The source of this dignity is rational autonomy, the capacity to give oneself moral law. The person is an autonomous lawgiver: moral law comes from the rational will legislating universally, and neither God, the state, nor tradition is its source.
 
 Kant achieved the most comprehensive assembly of personhood in the Western tradition. The Boethian "individual substance of a rational nature" survives: the person is metaphysically real. The Lockean forensic person survives: the person is accountable across time. The Augustinian interior survives: the person has a moral will that matters. To these Kant adds universality and autonomy: every rational being has equal dignity, and moral law is generated from within.
 
@@ -169,21 +169,21 @@ The autonomous rational subject contributes universality and self-legislation. E
 
 ### 7.1 Hegel and Mutual Recognition
 
-Soon after Kant, Hegel argued that the autonomous subject cannot stand alone. Self-consciousness, on his account, does not arise in isolation; it requires mutual recognition, and one's freedom becomes actual only when another free being acknowledges it (Hegel, 1807). The master-slave dialectic in the *Phenomenology of Spirit* makes the point sharply. The master dominates the slave and thereby destroys the possibility of genuine recognition, because coerced acknowledgment has no value. Genuine recognition requires equality, and equality requires institutions.
+Soon after Kant, Hegel argued that the autonomous subject cannot stand alone. Self-consciousness, on his account, does not arise in isolation; it requires mutual recognition, and one's freedom becomes actual only when another free being acknowledges it [@hegel1807]. The master-slave dialectic in the *Phenomenology of Spirit* makes the point sharply. The master dominates the slave and thereby destroys the possibility of genuine recognition, because coerced acknowledgment has no value. Genuine recognition requires equality, and equality requires institutions.
 
-In the *Philosophy of Right* Hegel described those institutions. Three spheres, family, civil society, and the state, together constitute *Sittlichkeit*, ethical life (Hegel, 1820). The family provides love and intimate recognition; civil society provides economic interaction and the recognition of needs and labor; the state provides legal and political recognition as a citizen. Personhood is fully realized only within this institutional framework. The solitary Kantian subject, legislating moral law in the privacy of its own reason, is an abstraction; actual personhood is social, institutional, and historical.
+In the *Philosophy of Right* Hegel described those institutions. Three spheres, family, civil society, and the state, together constitute *Sittlichkeit*, ethical life [@hegel1820]. The family provides love and intimate recognition; civil society provides economic interaction and the recognition of needs and labor; the state provides legal and political recognition as a citizen. Personhood is fully realized only within this institutional framework. The solitary Kantian subject, legislating moral law in the privacy of its own reason, is an abstraction; actual personhood is social, institutional, and historical.
 
 Hegel's contribution is to show that the Kantian person depends on specific social conditions for its existence. Where the institutions of mutual recognition are removed, personhood thins even though the biological organism remains intact.
 
 ### 7.2 Foucault and the Production of the Subject
 
-Michel Foucault, writing in the second half of the 20th century, extended the genealogy one step further. For Foucault the modern subject is produced by power. The autonomous individual of Enlightenment thought is, he argued, the outcome of specific historical arrangements: disciplinary institutions (prisons, schools, hospitals, barracks), administrative techniques (record-keeping, examination, classification), and biopolitical regimes that manage populations in addition to ruling territories (Foucault, 1975).
+Michel Foucault, writing in the second half of the 20th century, extended the genealogy one step further. For Foucault the modern subject is produced by power. The autonomous individual of Enlightenment thought is, he argued, the outcome of specific historical arrangements: disciplinary institutions (prisons, schools, hospitals, barracks), administrative techniques (record-keeping, examination, classification), and biopolitical regimes that manage populations in addition to ruling territories [@foucault1975].
 
-Foucault distinguished older forms of power, in which the sovereign's authority was exercised through spectacular punishment and the right to kill, from modern biopower, which "endeavors to administer, optimize, and multiply life, subjecting it to precise controls and comprehensive regulations" (Foucault, 1976). Under biopower the state manages as well as forbidding and commanding. It produces norms, measures deviations, administers populations, and creates the categories through which individuals understand themselves.
+Foucault distinguished older forms of power, in which the sovereign's authority was exercised through spectacular punishment and the right to kill, from modern biopower, which "endeavors to administer, optimize, and multiply life, subjecting it to precise controls and comprehensive regulations" [@foucault1976]. Under biopower the state manages as well as forbidding and commanding. It produces norms, measures deviations, administers populations, and creates the categories through which individuals understand themselves.
 
 The genealogical claim is that the Person was manufactured by institutions and then attributed to nature. The rational, autonomous, self-knowing individual Kant describes is a historical product of the disciplinary and administrative practices that emerged in early modern Europe. The Person is a construction in the strong sense: it required specific institutional conditions to come into existence and requires their continuation to survive.
 
-Foucault's later work complicated the picture. In his final lectures and writings on the "care of the self," he acknowledged that subjects take part in practices of self-formation, *techniques du soi*, through which they shape themselves within, and sometimes against, the systems that constitute them (Foucault, 1984). Personhood, for the later Foucault, is a site of struggle.
+Foucault's later work complicated the picture. In his final lectures and writings on the "care of the self," he acknowledged that subjects take part in practices of self-formation, *techniques du soi*, through which they shape themselves within, and sometimes against, the systems that constitute them [@foucault1984]. Personhood, for the later Foucault, is a site of struggle.
 
 ### 7.3 Summary of the Sequence
 
@@ -222,7 +222,7 @@ The thinning has an epistemic dimension. Each historical layer of personhood was
 
 The five layers can accordingly be read as five successive regimes of mediation, each of which shaped the believing agent as well as the agent's beliefs about the world. Ritual produces kin-embedded persons, epic produces narratable heroes, law produces legal subjects, theology produces guilty consciences, and philosophy produces autonomous reasoners. In each case the channel constitutes as well as informs.
 
-Contemporary platform capitalism introduces a new regime. The algorithmic feed, the recommendation engine, and the behavioral nudge determine what the agent sees and, at a more basic level, whether the agent deliberates at all or is optimized (Pariser, 2011). The channel's effect shifts from distorting the world as it reaches the agent to reshaping the agent.
+Contemporary platform capitalism introduces a new regime. The algorithmic feed, the recommendation engine, and the behavioral nudge determine what the agent sees and, at a more basic level, whether the agent deliberates at all or is optimized [@pariser2011]. The channel's effect shifts from distorting the world as it reaches the agent to reshaping the agent.
 
 ### 8.4 The Expansion of Legal Personhood
 
@@ -280,55 +280,3 @@ Defending personhood therefore requires knowing what it is made of. It is made o
 
 
 ## References
-
-Abusch, T. (2015). The development of the Epic of Gilgamesh. In *Male and Female in the Epic of Gilgamesh*. Eisenbrauns.
-
-Aristotle. *Nicomachean Ethics*. (Various translations.)
-
-Assmann, J. (1997). *Moses the Egyptian: The Memory of Egypt in Western Monotheism*. Harvard University Press.
-
-Augustine. *Confessions*. (Various translations.)
-
-Boethius. *Contra Eutychen et Nestorium*. (Various translations.)
-
-Descartes, R. (1641). *Meditations on First Philosophy*. (Various translations.)
-
-Fowler, C. (2004). *The Archaeology of Personhood: An Anthropological Approach*. Routledge.
-
-Foucault, M. (1975). *Discipline and Punish: The Birth of the Prison*. Gallimard.
-
-Foucault, M. (1976). *The History of Sexuality, Volume 1: The Will to Knowledge*. Gallimard.
-
-Foucault, M. (1984). *The Care of the Self: Volume 3 of The History of Sexuality*. Gallimard.
-
-Friston, K. (2013). Life as we know it. *Journal of the Royal Society Interface*, 10(86), 20130475.
-
-Gaius. *Institutes*. (Various translations.)
-
-Hegel, G. W. F. (1807). *Phenomenology of Spirit*. (Various translations.)
-
-Hegel, G. W. F. (1820). *Elements of the Philosophy of Right*. (Various translations.)
-
-Hume, D. (1739). *A Treatise of Human Nature*. (Various editions.)
-
-Kahan, D. M. et al. (2017). Motivated numeracy and enlightened self-government. *Behavioural Public Policy*, 1(1), 54--86.
-
-Kant, I. (1781). *Critique of Pure Reason*. (Various translations.)
-
-Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. (Various translations.)
-
-Locke, J. (1689). *An Essay Concerning Human Understanding*. (Various editions.)
-
-Mauss, M. (1938). Une categorie de l'esprit humain: la notion de personne, celle de moi. *Journal of the Royal Anthropological Institute*, 68, 263-281. (Huxley Memorial Lecture; English translation in Carrithers, Collins, & Lukes, 1985.)
-
-Pariser, E. (2011). *The Filter Bubble: What the Internet is Hiding from You*. Penguin.
-
-Russo, J. (2012). Re-thinking Homeric psychology. In F. Montanari (Ed.), *Homeric Contexts*. De Gruyter.
-
-Strathern, M. (1988). *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press.
-
-Taylor, C. (1989). *Sources of the Self: The Making of the Modern Identity*. Harvard University Press.
-
-Thomas Aquinas. *Summa Theologiae*. (Various translations.)
-
-Turner, V. (1969). *The Ritual Process: Structure and Anti-Structure*. Aldine.

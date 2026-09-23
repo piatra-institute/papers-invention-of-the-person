@@ -1,0 +1,280 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- id: abusch2015
+  type: book
+  title: 'Male and Female in the Epic of Gilgamesh: Encounters, Literary History, and Interpretation'
+  author:
+  - given: Tzvi
+    family: Abusch
+  publisher: Eisenbrauns
+  DOI: 10.5325/j.ctv1bxgzdj
+  issued:
+    date-parts:
+    - - 2015
+  publisher-place: Winona Lake, IN
+- id: aquinas1920
+  type: book
+  title: Summa Theologiae
+  author:
+  - family: Aquinas
+    given: Thomas
+  publisher: Burns Oates and Washbourne
+  publisher-place: London
+  translator:
+  - literal: Fathers of the English Dominican Province
+  edition: '2'
+  issued:
+    date-parts:
+    - - 1920
+- id: aristotle1999
+  type: book
+  title: Nicomachean Ethics
+  author:
+  - literal: Aristotle
+  publisher: Hackett
+  publisher-place: Indianapolis
+  translator:
+  - family: Irwin
+    given: Terence
+  edition: '2'
+  issued:
+    date-parts:
+    - - 1999
+- id: augustine1991
+  type: book
+  title: Confessions
+  author:
+  - literal: Augustine
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  translator:
+  - family: Chadwick
+    given: Henry
+  issued:
+    date-parts:
+    - - 1991
+- id: boethius1973
+  type: chapter
+  title: Contra Eutychen et Nestorium
+  author:
+  - literal: Boethius
+  container-title: Theological Tractates. The Consolation of Philosophy
+  translator:
+  - family: Stewart
+    given: H. F.
+  - family: Rand
+    given: E. K.
+  - family: Tester
+    given: S. J.
+  collection-title: Loeb Classical Library
+  collection-number: '74'
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1973
+  language: la
+- id: descartes1641
+  type: book
+  title: Meditations on First Philosophy
+  author:
+  - family: Descartes
+    given: René
+  issued:
+    date-parts:
+    - - 1641
+- id: fowler2004
+  type: book
+  title: 'The Archaeology of Personhood: An Anthropological Approach'
+  author:
+  - given: Chris
+    family: Fowler
+  publisher: Routledge
+  DOI: 10.4324/9780203583210
+  issued:
+    date-parts:
+    - - 2004
+  publisher-place: London
+- id: foucault1975
+  type: book
+  title: 'Surveiller et punir: Naissance de la prison'
+  author:
+  - family: Foucault
+    given: Michel
+  publisher: Gallimard
+  publisher-place: Paris
+  language: fr
+  issued:
+    date-parts:
+    - - 1975
+- id: foucault1976
+  type: book
+  title: 'Histoire de la sexualité, 1: La volonté de savoir'
+  author:
+  - family: Foucault
+    given: Michel
+  publisher: Gallimard
+  publisher-place: Paris
+  language: fr
+  issued:
+    date-parts:
+    - - 1976
+- id: foucault1984
+  type: book
+  title: 'Histoire de la sexualité, 3: Le souci de soi'
+  author:
+  - family: Foucault
+    given: Michel
+  publisher: Gallimard
+  publisher-place: Paris
+  language: fr
+  issued:
+    date-parts:
+    - - 1984
+- id: gaius1988
+  type: book
+  title: The Institutes of Gaius
+  author:
+  - literal: Gaius
+  publisher: Duckworth
+  publisher-place: London
+  translator:
+  - family: Gordon
+    given: W. M.
+  - family: Robinson
+    given: O. F.
+  issued:
+    date-parts:
+    - - 1988
+- id: hegel1807
+  type: book
+  title: Phenomenology of Spirit
+  author:
+  - family: Hegel
+    given: G. W. F.
+  issued:
+    date-parts:
+    - - 1807
+- id: hegel1820
+  type: book
+  title: Elements of the Philosophy of Right
+  author:
+  - family: Hegel
+    given: G. W. F.
+  issued:
+    date-parts:
+    - - 1820
+- id: hume1739
+  type: book
+  title: A Treatise of Human Nature
+  author:
+  - family: Hume
+    given: David
+  issued:
+    date-parts:
+    - - 1739
+- id: kant1781
+  type: book
+  title: Critique of Pure Reason
+  author:
+  - family: Kant
+    given: Immanuel
+  issued:
+    date-parts:
+    - - 1781
+- id: kant1785
+  type: book
+  title: Groundwork of the Metaphysics of Morals
+  author:
+  - family: Kant
+    given: Immanuel
+  issued:
+    date-parts:
+    - - 1785
+- id: locke1689
+  type: book
+  title: An Essay Concerning Human Understanding
+  author:
+  - family: Locke
+    given: John
+  issued:
+    date-parts:
+    - - 1689
+- id: mauss1938
+  type: article-journal
+  title: 'Une catégorie de l''esprit humain: la notion de personne, celle de “moi”'
+  author:
+  - given: Marcel
+    family: Mauss
+  container-title: Journal of the Royal Anthropological Institute of Great Britain and Ireland
+  volume: '68'
+  page: 263-281
+  DOI: 10.2307/2844128
+  issued:
+    date-parts:
+    - - 1938
+  language: fr
+- id: pariser2011
+  type: book
+  title: 'The Filter Bubble: What the Internet Is Hiding from You'
+  author:
+  - family: Pariser
+    given: Eli
+  publisher: Penguin Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 2011
+- id: russo1968
+  type: article-journal
+  title: Homeric Psychology and the Oral Epic Tradition
+  author:
+  - family: Russo
+    given: Joseph
+  - family: Simon
+    given: Bennett
+  container-title: Journal of the History of Ideas
+  volume: '29'
+  issue: '4'
+  page: 483-498
+  DOI: 10.2307/2708290
+  issued:
+    date-parts:
+    - - 1968
+- id: strathern1988
+  type: book
+  title: 'The Gender of the Gift: Problems with Women and Problems with Society in Melanesia'
+  author:
+  - given: Marilyn
+    family: Strathern
+  publisher: University of California Press
+  DOI: 10.1525/california/9780520064232.001.0001
+  issued:
+    date-parts:
+    - - 1988
+  publisher-place: Berkeley
+- id: taylor1989
+  type: book
+  title: 'Sources of the Self: The Making of the Modern Identity'
+  author:
+  - family: Taylor
+    given: Charles
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1989
+- id: turner1969
+  type: book
+  title: 'The Ritual Process: Structure and Anti-Structure'
+  author:
+  - family: Turner
+    given: Victor
+  publisher: Aldine
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1969

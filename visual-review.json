@@ -1,5 +1,5 @@
 {
-  "pdf_sha256": "5b42202c130a134cf3aca02d077491a6188c4fb8ae3bd002313eed30d9284c03",
+  "pdf_sha256": "e27ee9ed0485af59dbeb8631444162c686a6f87cb4c2f314ea1809389d65031e",
   "page_count": 18,
   "pages_inspected": [
     1,
@@ -22,5 +22,5 @@
     18
   ],
   "all_pages_inspected": true,
-  "notes": "All 18 pages inspected after the prose revision; text, arrow sequence in 7.3 and references render cleanly (the manuscript embeds no figures); figure titles in simulation/figures.py replaced with descriptive ones. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (eaa9903eb4d7 to 5b42202c130a); the rendered text is byte-for-byte identical and no page was re-inspected."
+  "notes": "All 18 pages inspected after the migration; citations and the citeproc reference list render correctly, no unresolved keys. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (cd6ae4b7a7bb to e27ee9ed0485); the rendered text is byte-for-byte identical and no page was re-inspected."
 }
